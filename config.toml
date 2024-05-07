@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://rizi97.github.io/hugo-dictanote'
 languageCode = 'en'
 title = 'Dictanote'
 
@@ -73,4 +73,4 @@ title = 'Dictanote'
   weight = '2'
 
 [Params]
-siteLogo = "/assets/img/logo.png"
+siteLogo = "https://rizi97.github.io/hugo-dictanote/assets/img/logo.png"
