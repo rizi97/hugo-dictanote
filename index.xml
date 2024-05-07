@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Dictanote</title>
-    <link>/</link>
+    <link>https://rizi97.github.io/hugo-dictanote/</link>
     <description>Recent content in Home on Dictanote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rizi97.github.io/hugo-dictanote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing QuickTube AI Summary Chrome Extension</title>
-      <link>/blog/introducing_quicktube_ai_summary_chrome_extension/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/introducing_quicktube_ai_summary_chrome_extension/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/blog/introducing_quicktube_ai_summary_chrome_extension/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/introducing_quicktube_ai_summary_chrome_extension/</guid>
       <description>I am excited to unveil our new extension: QuickTube: Youtube Summary with ChatGPT.
 Quicktube adds a widget to your YouTube interface that shows the video transcript and lets you quickly generate a concise, insightful summary using OpenAI&amp;rsquo;s ChatGPT, Google&amp;rsquo;s Gemini, or Claude. This means you can absorb the key points of videos, podcasts, or even foreign-language content in a few minutes - a true time-saver!</description>
     </item>
     
     <item>
       <title>7 New Voice Commands: Delete Last &lt;2-20&gt; Words, Backspace, and more!</title>
-      <link>/blog/new_voice_commands_delete_last_words_backspace_and_more/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/new_voice_commands_delete_last_words_backspace_and_more/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/new_voice_commands_delete_last_words_backspace_and_more/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/new_voice_commands_delete_last_words_backspace_and_more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Enable Voice Typing in Chrome: A Step-by-Step Guide</title>
-      <link>/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The New Dictanote Transcribe</title>
-      <link>/blog/the_new_dictanote_transcribe/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/the_new_dictanote_transcribe/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/the_new_dictanote_transcribe/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/the_new_dictanote_transcribe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top 5 Chrome Extensions for ChatGPT in 2023</title>
-      <link>/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Launching Audio Scribe: Your Personal AI Writing Assistant</title>
-      <link>/blog/launching_audio_scribe_your_personal_ai_writing_assistant/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/launching_audio_scribe_your_personal_ai_writing_assistant/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/launching_audio_scribe_your_personal_ai_writing_assistant/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/launching_audio_scribe_your_personal_ai_writing_assistant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voice In Product Update - May 2023</title>
-      <link>/blog/voice_in_product_update_may_2023/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/voice_in_product_update_may_2023/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/voice_in_product_update_may_2023/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/voice_in_product_update_may_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keypress and Open a Site using Voice Commands</title>
-      <link>/blog/keypress_and_open_a_site_using_voice_commands/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/keypress_and_open_a_site_using_voice_commands/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/keypress_and_open_a_site_using_voice_commands/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/keypress_and_open_a_site_using_voice_commands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Pin and Unpin Extensions on Google Chrome</title>
-      <link>/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top 5 Speech-To-Text Extension for Chrome</title>
-      <link>/blog/top_5_speech_to_text_extension_for_chrome/</link>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/top_5_speech_to_text_extension_for_chrome/</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/top_5_speech_to_text_extension_for_chrome/</guid>
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/top_5_speech_to_text_extension_for_chrome/</guid>
       <description></description>
     </item>
     
