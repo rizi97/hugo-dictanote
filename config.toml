@@ -1,0 +1,76 @@
+baseURL = '/'
+languageCode = 'en'
+title = 'Dictanote'
+
+[menu]
+[[menu.main_menu]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = '1'
+[[menu.main_menu]]
+  identifier = 'news'
+  name = 'News'
+  url = '/news'
+  weight = '2'
+[[menu.main_menu]]
+  identifier = 'tutorial'
+  name = 'Tutorials'
+  url = '/tutorial'
+  weight = '3'
+[[menu.main_menu]]
+  identifier = 'comparison'
+  name = 'Comparison'
+  url = '/comparison'
+  weight = '4'
+
+[[menu.footer_product]]
+  name = 'Getting Started with Voice In'
+  url = '#'
+  weight = '1'
+[[menu.footer_product]]
+  name = 'Pricing'
+  url = '#'
+  weight = '2'
+[[menu.footer_product]]
+  name = 'Partners'
+  url = '#'
+  weight = '3'
+
+[[menu.footer_resources]]
+  name = 'Voice Commands'
+  url = '#'
+  weight = '1'
+[[menu.footer_resources]]
+  name = 'Demo video'
+  url = '#'
+  weight = '2'
+[[menu.footer_resources]]
+  name = 'Cancellation Policy'
+  url = '#'
+  weight = '3'
+
+[[menu.footer_support]]
+  name = 'Help center'
+  url = '#'
+  weight = '1'
+[[menu.footer_support]]
+  name = 'User forum'
+  url = '#'
+  weight = '2'
+[[menu.footer_support]]
+  name = 'Email'
+  url = '#'
+  weight = '3'
+
+[[menu.footer_bottom]]
+  name = 'Terms'
+  url = '#'
+  weight = '1'
+[[menu.footer_bottom]]
+  name = 'Privacy Policy'
+  url = '#'
+  weight = '2'
+
+[Params]
+siteLogo = "/assets/img/logo.png"

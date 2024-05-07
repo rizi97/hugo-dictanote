@@ -1,0 +1,16 @@
+<div class="container text-center text-white mt-3">
+    {{ if .Params.detail_image }}
+        <img itemprop="image" src="{{ .Params.detail_image }}" class="blogpost-header-image"
+        alt="{{ .Title }}" width="200" height="136.776" />
+    {{ end }}
+    <h1 itemprop="headline" class="text-white">{{ .Title }}</h1>
+    <div class="blogpost-header-meta">
+        <span itemprop="author">
+            <a itemprop="url" href="#!" rel="author" class="text-white">
+                <span itemprop="name">{{ .Params.author }}</span>
+            </a>
+        </span>
+        -
+        <span>Published: <span itemprop="datePublished" content="2024-04-04T07:42:00+02:00">{{ dateFormat "January 2, 2006" .Date }}</span></span>
+    </div>
+</div>

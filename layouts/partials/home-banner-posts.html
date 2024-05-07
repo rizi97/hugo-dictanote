@@ -1,0 +1,19 @@
+<div class="container blog-latest-articles">
+    <div class="row justify-content-between">
+
+        {{ $recentPosts := first 2 .Site.RegularPages.ByDate.Reverse }}
+        {{ range $recentPosts }}
+
+            <div class="col-lg-6 mb-3">
+                <div class="mb-1">
+                    <a href="{{ .Permalink }}" class="badge badge-light">{{ .Params.category }}</a>
+                </div>
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <p>{{ .Params.excerpt }}</p>
+                <p class="m-0"><small class="d-flex mt-1">{{ .Params.author }} - {{ dateFormat "January 2, 2006" .Date }}</small></p>
+            </div>
+
+        {{ end }}
+
+    </div>
+</div>

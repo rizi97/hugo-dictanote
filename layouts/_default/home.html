@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+<main class="container">
+    <div class="blog-grid mt-5">
+
+        {{ $blogSection := .Site.GetPage "section" "blog" }}
+        {{ $allPosts := $blogSection.RegularPages }}
+        {{ $offset := 2 }}
+
+        {{ range $index, $post := $allPosts }}
+        {{ if ge $index $offset }}
+            
+            <div class="blog-grid-cards d-flex flex-column">
+                <div class="blogpost-card-top">
+                    <a href="{{ .Permalink }}"><img class="blogpost-card-img-top" loading="lazy"
+                            src="{{ .Params.thumbnail }}"
+                            alt="{{ .Title }}" /></a>
+                </div>
+
+                <div class="blog-grid-cards-header">
+                    <span class="text-neutral-6 mr-auto">{{ dateFormat "January 2, 2006" .Date }}</span>
+                    <a href="{{ .Permalink }}" class="badge badge-light">{{ .Params.category }}</a>
+                </div>
+                <div class="blog-grid-cards-body">
+                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                </div>
+            </div>
+            
+            {{ end }}
+        {{ end }}
+
+    </div>
+
+
+    <section class="blog-category mt-5">
+        <div class="text-center mb-5">
+            <h2>New and Noteworthy</h2>
+            <p style="max-width: 680px; margin: 0 auto">
+                Get to know the latest features that have been released into Mailmeteor, to help you do more with your
+                emails.
+                <a href="#">Read all our product announcements →</a>
+            </p>
+        </div>
+        <div>
+            <ul class="blog-feed">
+
+                {{ $newsPosts := where .Site.RegularPages "Params.category" "news" | first 5 }}
+                {{ $count := 0 }}
+
+                {{ range $newsPosts }}
+
+                    <li>
+                        {{ if eq $count 0 }}
+                        <a href="{{ .Permalink }}" style="display: block; margin-bottom: 24px">
+                            <img loading="lazy" class="w-100 border-radius-lg"
+                                src="{{ .Params.thumbnail }}"
+                                alt="Mailmeteor meets Outlook" />
+                        </a>
+                        {{ end }}
+
+                        <h3>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h3>
+                        <div>{{ .Params.excerpt }}</div>
+                    </li>
+
+                    {{ $count = add $count 1 }}
+                {{ end }}
+            </ul>
+        </div>
+    </section>
+
+</main>
+{{ end }}
