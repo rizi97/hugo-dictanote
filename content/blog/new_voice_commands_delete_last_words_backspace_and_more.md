@@ -5,5 +5,5 @@ excerpt: These new voice commands greatly improve your ability to edit/delete te
 date: 2023-09-08
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+thumbnail: "https://rizi97.github.io/hugo-dictanotehttps://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
 ---

@@ -5,8 +5,8 @@ excerpt: 'I am excited to unveil our new extension: QuickTube: Youtube Summary w
 date: 2024-04-02
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
-detail_image: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/detail.png"
+thumbnail: "https://rizi97.github.io/hugo-dictanotehttps://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+detail_image: "https://rizi97.github.io/hugo-dictanotehttps://rizi97.github.io/hugo-dictanote/assets/img/blog/detail.png"
 ---
 
 I am excited to unveil our new extension: [QuickTube: Youtube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/leidjgpcaiceoeebkdjfcaeboidcjiea).
