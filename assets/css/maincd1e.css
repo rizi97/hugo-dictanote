@@ -524,7 +524,7 @@ ul.list-marketing-inline li {
 
 ul.list-marketing-inline li::before {
   content: '';
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
   background-repeat: no-repeat;
   min-width: 20px;
   min-height: 20px;
@@ -833,7 +833,7 @@ section.homepage-values > .container {
   height: 100%;
   position: absolute;
   top: -8rem;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/background/values.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/background/values.svg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
@@ -880,7 +880,7 @@ section.homepage-values > .container {
   left: 50%;
   position: absolute;
   display: inline-block;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/number1.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/number1.svg);
   background-repeat: no-repeat;
   background-size: 40px;
   margin-left: -20px;
@@ -894,7 +894,7 @@ section.homepage-values > .container {
   left: 50%;
   position: absolute;
   display: inline-block;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/number2.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/number2.svg);
   background-repeat: no-repeat;
   background-size: 40px;
   margin-left: -20px;
@@ -908,7 +908,7 @@ section.homepage-values > .container {
   left: 50%;
   position: absolute;
   display: inline-block;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/number3.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/number3.svg);
   background-repeat: no-repeat;
   background-size: 40px;
   margin-left: -20px;
@@ -1079,13 +1079,13 @@ section.homepage-values > .container {
   height: 20px;
   margin-right: 0.5rem;
   display: inline-block;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
   background-repeat: no-repeat;
 }
 
 .lifetime-plan .pricing-plan-features li:not(.font-weight-bold:first-child):before,
 .business-plan .pricing-plan-features li:not(.font-weight-bold:first-child):before {
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round-white.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round-white.svg);
 }
 
 /* #### 5.4 Pricing features grid ####*/
@@ -1750,7 +1750,7 @@ ol.education-list li::marker {
   background-position: 20px;
   background-repeat: no-repeat;
   background-size: 17px;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/search.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/search.svg);
 }
 
 .page-support-search .form-inline,
@@ -1950,7 +1950,7 @@ ol.education-list li::marker {
 
 .page-support-articles li:before {
   content: ' ';
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/articles.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/articles.svg);
   background-repeat: no-repeat;
   width: 18px;
   height: 22px;
@@ -1971,7 +1971,7 @@ ol.education-list li::marker {
   width: 100%;
   height: 100%;
   position: absolute;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/background/support.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/background/support.svg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
@@ -2027,7 +2027,7 @@ ol.education-list li::marker {
   height: 20px;
   margin-right: 1rem;
   display: inline-block;
-  background-image: url(https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/elements/tick-round.svg);
   background-repeat: no-repeat;
 }
 
@@ -2355,11 +2355,11 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-italic - latin */
 @font-face {
@@ -2367,10 +2367,10 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-500 - latin */
 @font-face {
@@ -2378,10 +2378,10 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-500italic - latin */
 @font-face {
@@ -2389,11 +2389,11 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-500italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-600 - latin */
 @font-face {
@@ -2401,10 +2401,10 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-600italic - latin */
 @font-face {
@@ -2412,11 +2412,11 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-600italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-700 - latin */
 @font-face {
@@ -2424,10 +2424,10 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-700italic - latin */
 @font-face {
@@ -2435,11 +2435,11 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-700italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-800 - latin */
 @font-face {
@@ -2447,10 +2447,10 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-800italic - latin */
 @font-face {
@@ -2458,11 +2458,11 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-800italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-900 - latin */
 @font-face {
@@ -2470,10 +2470,10 @@ ol.education-list li::marker {
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.woff') format('woff'), /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.woff') format('woff'), /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 /* poppins-900italic - latin */
 @font-face {
@@ -2481,11 +2481,11 @@ ol.education-list li::marker {
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.eot'); /* IE9 Compat Modes */
-  src: local(''), url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.woff') format('woff'),
-    /* Modern Browsers */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */ url('https://mailmeteor.comhttps://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.svg#Poppins') format('svg'); /* Legacy iOS */
+  src: url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.woff') format('woff'),
+    /* Modern Browsers */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('https://rizi97.github.io/hugo-dictanote/assets/fonts/poppins-v19-latin-900italic.svg#Poppins') format('svg'); /* Legacy iOS */
 }
 
 /* ######## 13. Components ######## */
