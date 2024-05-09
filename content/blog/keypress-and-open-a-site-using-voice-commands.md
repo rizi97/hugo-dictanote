@@ -5,7 +5,7 @@ excerpt:
 date: 2022-12-18
 category: news
 author: Anil Shanbhag
-thumbnail: "/assets/img/blog/featured.jpg"
+thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
 ---
 
 Voice In v3.23 includes two new custom voice commands:
@@ -14,7 +14,7 @@ Voice In v3.23 includes two new custom voice commands:
 2. <press:*> to simulate key presses on your keyboard. You can use it to press shift+enter to create a line break, or press ctrl+alt+s in Zendesk to mark a ticket as resolved. The voice command is completely customizable.
 Here is an example list of voice commands you can implement using this.
 
-![](/assets/img/blog/Screenshot_2022-12-17_at_9.18.40_PM.width-800.png)
+![](https://rizi97.github.io/hugo-dictanote/assets/img/blog/Screenshot_2022-12-17_at_9.18.40_PM.width-800.png)
 
 Implementing the key press emulation required us to get new permission: debugger. The debugger lets Voice In simulate key press similar to a real user.
 Checkout the new voice commands and let us know what you think.

@@ -5,7 +5,7 @@ excerpt:
 date: 2023-08-07
 category: news
 author: Anil Shanbhag
-thumbnail: "/assets/img/blog/featured.jpg"
+thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
 ---
 
 Dictanote Transcribe lets you convert audio files to text in 50+ languages.

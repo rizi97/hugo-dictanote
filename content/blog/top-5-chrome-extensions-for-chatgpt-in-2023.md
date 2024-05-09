@@ -5,7 +5,7 @@ excerpt:
 date: 2023-08-05
 category: comparison
 author: Anil Shanbhag
-thumbnail: "/assets/img/blog/featured.jpg"
+thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
 ---
 
 ChatGPT swiftly transitioned from a trending term to an essential component of our daily activities. It's become a reliable tool for crafting emails, refining resumes, debugging codes, and arranging travel plans. ChatGPT offers functionalities that allow us to condense, create, revise, and comprehend information. To fully leverage the potential of ChatGPT, several Chrome extensions have been developed. Here, we present the top five must-have Chrome extensions for ChatGPT.
