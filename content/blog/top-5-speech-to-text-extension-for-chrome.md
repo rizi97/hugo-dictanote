@@ -5,7 +5,7 @@ excerpt:
 date: 2022-10-06
 category: comparison
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+thumbnail: "/assets/img/blog/featured.jpg"
 ---
 
 Speech-to-text extensions on Chrome can help you boost productivity by using the power of your voice to reduce the time taken to produce documents / complete tasks.

@@ -5,8 +5,8 @@ excerpt: 'I am excited to unveil our new extension: QuickTube: Youtube Summary w
 date: 2024-04-02
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
-detail_image: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/detail.png"
+thumbnail: "/assets/img/blog/featured.jpg"
+detail_image: "/assets/img/blog/detail.png"
 ---
 
 I am excited to unveil our new extension: [QuickTube: Youtube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/leidjgpcaiceoeebkdjfcaeboidcjiea).
@@ -15,7 +15,7 @@ Quicktube adds a widget to your YouTube interface that shows the video transcrip
 
 [Install QuickTube Extension →](https://chromewebstore.google.com/detail/youtube-summary-with-chat/leidjgpcaiceoeebkdjfcaeboidcjiea)
 
-![](https://rizi97.github.io/hugo-dictanote/assets/img/blog/screenshot.width-800.png)
+![](/assets/img/blog/screenshot.width-800.png)
 
 **Beyond Videos**
 QuickTube's versatility extends to web articles and PDF documents. With the same ease, you can get AI-powered summaries for dense news articles or lengthy reports, streamlining your reading process significantly.
