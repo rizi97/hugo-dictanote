@@ -554,7 +554,7 @@ ul.list-marketing-inline li::before {
 }
 
 .mm-main-navbar .navbar-brand #brand-name {
-  font-size: 30px;
+  font-size: 20px;
   color:white
 }
 
@@ -1532,7 +1532,7 @@ sup {
 
 .footer-svg {
   width: 100%;
-  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/footer.svg);
+  background-image: url(https://rizi97.github.io/hugo-dictanote/assets/img/background/footer.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1673,6 +1673,10 @@ article .container p {
 
 article .container ul, article .container ol {
   margin: 1rem 0;
+}
+
+article .container ul li code {
+  color: #000;
 }
 
 article img :first-of-type {

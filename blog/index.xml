@@ -9,12 +9,34 @@
     <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rizi97.github.io/hugo-dictanote/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing QuickTube AI Summary Chrome Extension</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/introducing-quicktube-ai-summary-chrome-extension/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/introducing-quicktube-ai-summary-chrome-extension/</guid>
+      <description>I am excited to unveil our new extension: QuickTube: Youtube Summary with ChatGPT.
+Quicktube adds a widget to your YouTube interface that shows the video transcript and lets you quickly generate a concise, insightful summary using OpenAI&amp;rsquo;s ChatGPT, Google&amp;rsquo;s Gemini, or Claude. This means you can absorb the key points of videos, podcasts, or even foreign-language content in a few minutes - a true time-saver!
+Install QuickTube Extension →
+Beyond Videos QuickTube&amp;rsquo;s versatility extends to web articles and PDF documents.</description>
+    </item>
+    
+    <item>
+      <title>Introducing QuickTube AI Summary Chrome Extension</title>
       <link>https://rizi97.github.io/hugo-dictanote/blog/introducing_quicktube_ai_summary_chrome_extension/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://rizi97.github.io/hugo-dictanote/blog/introducing_quicktube_ai_summary_chrome_extension/</guid>
       <description>I am excited to unveil our new extension: QuickTube: Youtube Summary with ChatGPT.
 Quicktube adds a widget to your YouTube interface that shows the video transcript and lets you quickly generate a concise, insightful summary using OpenAI&amp;rsquo;s ChatGPT, Google&amp;rsquo;s Gemini, or Claude. This means you can absorb the key points of videos, podcasts, or even foreign-language content in a few minutes - a true time-saver!</description>
+    </item>
+    
+    <item>
+      <title>7 New Voice Commands: Delete Last &lt;2-20&gt; Words, Backspace, and more!</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/new-voice-commands-delete-last-words-backspace-and-more/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/new-voice-commands-delete-last-words-backspace-and-more/</guid>
+      <description>With Voice In v3.49, we have added seven new voice commands to Voice In:
+&amp;lt;deleteword:n&amp;gt; Say delete word, delete last two words, up to delete last twenty words to delete the respective number of words. &amp;lt;deleteline&amp;gt; Say delete line to delete the entire line. &amp;lt;backspace:n&amp;gt; Emulates backspace. Say backspace one, backspace two, up to backspace twenty. &amp;lt;selectall&amp;gt; Say select all to select all the text. &amp;lt;delete&amp;gt; Say delete that to delete the selected text.</description>
     </item>
     
     <item>
@@ -28,11 +50,33 @@ Quicktube adds a widget to your YouTube interface that shows the video transcrip
     
     <item>
       <title>How to Enable Voice Typing in Chrome: A Step-by-Step Guide</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/how-to-enable-voice-typing-in-chrome-a-step-by-step-guide/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/how-to-enable-voice-typing-in-chrome-a-step-by-step-guide/</guid>
+      <description>Voice In is an essential tool designed to elevate your productivity and accessibility by transforming your speech into text instantly. With Voice In, you can effortlessly dictate into over 10K+ websites, including apps like ChatGPT, Gmail, Google Docs, and Twitter. Plus, it supports dictation in more than 180 languages. In this guide, we&amp;rsquo;ll walk you through the process of enabling voice typing in Google Chrome using Voice In.
+How to enable Voice Typing in Google Chrome Install Google Chrome: Ensure you&amp;rsquo;re using the Google Chrome browser.</description>
+    </item>
+    
+    <item>
+      <title>How to Enable Voice Typing in Chrome: A Step-by-Step Guide</title>
       <link>https://rizi97.github.io/hugo-dictanote/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rizi97.github.io/hugo-dictanote/blog/how_to_enable_voice_typing_in_chrome_a_step_by_step_guide/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The New Dictanote Transcribe</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/the-new-dictanote-transcribe/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/the-new-dictanote-transcribe/</guid>
+      <description>Dictanote Transcribe lets you convert audio files to text in 50+ languages.
+We just launched an improved Dictanote Transcribe with a brand-new AI Model plus improved transcription speed.
+The new AI model has significantly higher accuracy (lower word error rate) and performs much better at punctuation. The new AI model is available in 20 languages, including English, French, German, Italian, etc.
+We are offering a 25% discount on all transcriptions to celebrate the launch.</description>
     </item>
     
     <item>
@@ -46,11 +90,33 @@ Quicktube adds a widget to your YouTube interface that shows the video transcrip
     
     <item>
       <title>Top 5 Chrome Extensions for ChatGPT in 2023</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/top-5-chrome-extensions-for-chatgpt-in-2023/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/top-5-chrome-extensions-for-chatgpt-in-2023/</guid>
+      <description>ChatGPT swiftly transitioned from a trending term to an essential component of our daily activities. It&amp;rsquo;s become a reliable tool for crafting emails, refining resumes, debugging codes, and arranging travel plans. ChatGPT offers functionalities that allow us to condense, create, revise, and comprehend information. To fully leverage the potential of ChatGPT, several Chrome extensions have been developed. Here, we present the top five must-have Chrome extensions for ChatGPT.
+1) Voice In - Speech-To-Text Dictation Voice In is a Chrome extension that enables you to convert your speech into text, helping you draft emails, write blog posts, send messages, and more - just by speaking.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Chrome Extensions for ChatGPT in 2023</title>
       <link>https://rizi97.github.io/hugo-dictanote/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rizi97.github.io/hugo-dictanote/blog/top_5_chrome_extensions_for_chatgpt_in_2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Launching Audio Scribe: Your Personal AI Writing Assistant</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/launching-audio-scribe-your-personal-ai-writing-assistant/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/launching-audio-scribe-your-personal-ai-writing-assistant/</guid>
+      <description>We recently added a new feature to Dictanote called Audio Scribe.
+Audio Scribe converts your voice notes into clearly summarized text.
+Simply dictate your random thoughts and let Audio Scribe transform them using AI. It transcribes your audio, automatically adds in punctuations like periods and commas, removes filler words, repetitions, and those pesky &amp;lsquo;umms&amp;rsquo;, and finally rewrites the transcript using ChatGPT into clear text.
+Audio Scribe supports dictation across many languages.</description>
     </item>
     
     <item>
@@ -64,11 +130,32 @@ Quicktube adds a widget to your YouTube interface that shows the video transcrip
     
     <item>
       <title>Voice In Product Update - May 2023</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/voice-in-product-update-may-2023/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/voice-in-product-update-may-2023/</guid>
+      <description>Anil here from Voice In, the #1 speech-to-text extension. We have a number of updates we&amp;rsquo;re excited to share with you.
+Generative AI Stop wasting time writing your prompts. Voice In now supports dictation on ChatGPT, Google Bard, Bing Chat, and Poe. Recently, ChatGPT became the #1 most used site for Voice In, overtaking long-time #1/#2 Gmail and Google Docs.
+Six New Voice Commands We have added six new types of voice commands (shown below).</description>
+    </item>
+    
+    <item>
+      <title>Voice In Product Update - May 2023</title>
       <link>https://rizi97.github.io/hugo-dictanote/blog/voice_in_product_update_may_2023/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rizi97.github.io/hugo-dictanote/blog/voice_in_product_update_may_2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Keypress and Open a Site using Voice Commands</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/keypress-and-open-a-site-using-voice-commands/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/keypress-and-open-a-site-using-voice-commands/</guid>
+      <description>Voice In v3.23 includes two new custom voice commands:
+open:* to open a webpage. You can use this to open your favorite sites using voice commands. For example, you can create a new voice command &amp;lsquo;open youtube&amp;rsquo; mapped to open:https://youtube.com. Then say open youtube anytime to open Youtube in a new tab. press:* to simulate key presses on your keyboard. You can use it to press shift+enter to create a line break, or press ctrl+alt+s in Zendesk to mark a ticket as resolved.</description>
     </item>
     
     <item>
@@ -82,11 +169,31 @@ Quicktube adds a widget to your YouTube interface that shows the video transcrip
     
     <item>
       <title>How to Pin and Unpin Extensions on Google Chrome</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/how-to-pin-and-unpin-extensions-on-google-chrome/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/how-to-pin-and-unpin-extensions-on-google-chrome/</guid>
+      <description>Google Chrome has a plethora of extensions and Google has designed an Extensions Menu to enable easy access to your favorite extensions. The menu is available in the chrome web browser, next to the address as a jigsaw puzzle icon. This menu allows you to access all your extensions from one place and it also, allows you to pin and unpin extensions to the toolbar.
+In this blog post, we will guide you on how to pin and unpin extensions to your chrome toolbar.</description>
+    </item>
+    
+    <item>
+      <title>How to Pin and Unpin Extensions on Google Chrome</title>
       <link>https://rizi97.github.io/hugo-dictanote/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rizi97.github.io/hugo-dictanote/blog/how_to_pin_and_unpin_extensions_on_google_chrome/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5 Speech-To-Text Extension for Chrome</title>
+      <link>https://rizi97.github.io/hugo-dictanote/blog/top-5-speech-to-text-extension-for-chrome/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizi97.github.io/hugo-dictanote/blog/top-5-speech-to-text-extension-for-chrome/</guid>
+      <description>Speech-to-text extensions on Chrome can help you boost productivity by using the power of your voice to reduce the time taken to produce documents / complete tasks.
+We reviewed multiple speech-to-text chrome extensions and rated them based on their ease of use, dictation accuracy, and cost. In this article, we compiled a list of the top 5 speech-text chrome extensions that give you the ability to dictate on multiple websites - all of which can save you time by increased efficiency and decreased effort.</description>
     </item>
     
     <item>
