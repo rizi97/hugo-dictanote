@@ -5,7 +5,7 @@ excerpt:
 date: 2023-05-16
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+thumbnail: "/assets/img/blog/featured.jpg"
 ---
 
 Anil here from [Voice In](https://sendy.dictanote.co/l/G9x2wcKDOQ2hHinqZqPKXg/EJGqyKNKJ892M4OreEYxQi763g/ZGwZb17P6GNPPI7lApDiiQ), the #1 speech-to-text extension. We have a number of updates we're excited to share with you. 
@@ -16,7 +16,7 @@ Stop wasting time writing your prompts. Voice In now supports dictation on ChatG
 ### Six New Voice Commands
 We have added six new types of voice commands (shown below). You can now use voice commands to perform actions like changing the dictation language, pressing a keyboard shortcut, opening a webpage, closing the current tab, etc.
 
-![](https://rizi97.github.io/hugo-dictanote/assets/img/blog/Screenshot_2023-05-16_at_10.10.09_AM.width-800.jpg)
+![](/assets/img/blog/Screenshot_2023-05-16_at_10.10.09_AM.width-800.jpg)
 
 You can use these action commands to simplify your workflow. For example, in Gmail, the shortcut to send the email is ctrl + enter (cmd + enter on Mac). You can trigger this action using your voice by adding a voice command "send mail" => (or on Mac).
 

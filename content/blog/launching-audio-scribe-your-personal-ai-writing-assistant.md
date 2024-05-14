@@ -5,7 +5,7 @@ excerpt:
 date: 2023-06-25
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+thumbnail: "/assets/img/blog/featured.jpg"
 ---
 
 We recently added a new feature to Dictanote called Audio Scribe. 
@@ -20,11 +20,11 @@ Audio Scribe supports dictation across many languages. You can also dictate in o
 
 To try it, open Dictanote. On desktop, you will find Audio Scribe in the left sidebar.
 
-![](https://rizi97.github.io/hugo-dictanote/assets/img/blog/1689612421.width-500.jpg)
+![](/assets/img/blog/1689612421.width-500.jpg)
 
 On mobile, you will find it in the bottom right corner.
 
-![](https://rizi97.github.io/hugo-dictanote/assets/img/blog/Screenshot_2023-07-31_at_9.54.13_PM_cu0yv9b.width-500.png)
+![](/assets/img/blog/Screenshot_2023-07-31_at_9.54.13_PM_cu0yv9b.width-500.png)
 
 Some use cases for Audio Scribe:
 

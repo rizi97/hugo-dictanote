@@ -5,7 +5,7 @@ excerpt: These new voice commands greatly improve your ability to edit/delete te
 date: 2023-09-08
 category: news
 author: Anil Shanbhag
-thumbnail: "https://rizi97.github.io/hugo-dictanote/assets/img/blog/featured.jpg"
+thumbnail: "/assets/img/blog/featured.jpg"
 ---
 
 With Voice In v3.49, we have added seven new voice commands to Voice In:
